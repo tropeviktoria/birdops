@@ -18,3 +18,5 @@ PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
 3. Very it has been saved (this should return the same three lines mentioned above)
 
 crontab -l
+
+4. The script will now run every 15min unless your mac is asleep.
