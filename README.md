@@ -1,5 +1,5 @@
 # birdops
-Get alerted for specific bird species matches in SW London within a 15km radius.
+Get alerted for specific bird species matches in SW London within a 15km radius using eBirds public API.
 This script will send alerts to your chosen slack channel and google sheets file - only if there have been any new sighting since the last alert. 
 If not, it will simply not return anything in your google sheet and send a "now new sightings" message on Slack.
 
